@@ -1,2 +1,22 @@
-# PaddleOCR-License-Plate-Recognition
-License plate detection and recognition pipeline using YOLO for detection and PaddleOCR for accurate OCR.
+#  License Plate Recognition Project
+
+A simple Python PaddleOCR project for detecting and reading vehicle license plates from images. Results are saved as labeled images.
+
+---
+
+
+
+
+## 🖼️ Screenshots
+
+![License Plate OCR](plates_labeled/3.png)
+![License Plate OCR](plates_labeled/7.png)
+![License Plate OCR](plates_labeled/8.png)
+![License Plate OCR](plates_labeled/9.png)
+![License Plate OCR](plates_labeled/10.png)
+![License Plate OCR](plates_labeled/11.png)
+![License Plate OCR](plates_labeled/12.png)
+![License Plate OCR](plates_labeled/14.png)
+
+
+---
