@@ -12,16 +12,24 @@ https://drive.google.com/drive/folders/10Ex262qLoQUZWjSuehk4Hhjr8EH1B-MN?usp=sha
 
 
 
-## 🖼️ Screenshots
+## 🖼️ Single Control
+![License Plate OCR](single_control/test_plate.jpg)
 
-![License Plate OCR](plates_labeled/3.png)
-![License Plate OCR](plates_labeled/7.png)
-![License Plate OCR](plates_labeled/8.png)
-![License Plate OCR](plates_labeled/9.png)
-![License Plate OCR](plates_labeled/10.png)
-![License Plate OCR](plates_labeled/11.png)
-![License Plate OCR](plates_labeled/12.png)
-![License Plate OCR](plates_labeled/14.png)
+---
+
+## 🖼️ Multiple Control
+![License Plate OCR](multiple_control/car1.png)
+![License Plate OCR](multiple_control/car13.png)
+![License Plate OCR](multiple_control/car14.png)
+
+---
+## 🖼️ Record To Folder
+
+![License Plate OCR](record_to_folder/3.png)
+
+![License Plate OCR](record_to_folder/9.png)
+
+![License Plate OCR](record_to_folder/test_plate.jpg)
 
 
 ---
